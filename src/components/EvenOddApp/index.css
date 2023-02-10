@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+.card {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+}
+.Inner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
